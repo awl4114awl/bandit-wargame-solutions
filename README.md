@@ -1,3 +1,7 @@
 # bandit-wargame-solutions
 Solutions for OverTheWire Bandit wargame, organized by level.
-[OverTheWire Logo](https://imgur.com/a/twKPYeu)
+<p align="left">
+  <img src="https://i.imgur.com/EUvuxuD.png" alt="OverTheWire Logo" style="width:50%;" />
+</p>
+
+
