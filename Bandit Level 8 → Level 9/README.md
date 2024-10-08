@@ -33,3 +33,5 @@ The password for the next level is stored in the file `data.txt` and is the only
    ```
    4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
    ```
+## Helpful Reading Material
+[Piping and Redirection](https://ryanstutorials.net/linuxtutorial/piping.php)
