@@ -16,7 +16,9 @@ The password for the next level is stored in a file called `spaces in this filen
    ```
    ssh bandit3@bandit.labs.overthewire.org -p 2220
    ```
-   - **Password**: The password retrieved from **Level 3**.
+   ```
+   Password: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+   ```
 
 2. **List the Files in the Home Directory**:
    Once logged in, use `ls` to list the files in the home directory:
