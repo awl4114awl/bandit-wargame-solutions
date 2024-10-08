@@ -50,9 +50,3 @@ The password for the next level is stored in the only human-readable file in the
    ```
    2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
    ```
-
----
-
-You can now create this `README.md` file for **Level 4** in your repository and include the password you retrieved.
-
-Let me know if you need help with any other levels!
