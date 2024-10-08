@@ -49,7 +49,7 @@ Once you find a password for a level, use SSH to log into that level and continu
 
 ## Password for Level 1
 ```
-[Insert the password you found in the `readme` file]
+boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 ```
 
 ## Notes
