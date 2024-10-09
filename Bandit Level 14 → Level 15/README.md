@@ -23,7 +23,7 @@ The password for the next level can be retrieved by submitting the password of t
    echo "MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS" | nc localhost 30000
    ```
 
-3. **Password for Level 16**:
+3. **Password for Level 15**:
    ```
    8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
    ```
