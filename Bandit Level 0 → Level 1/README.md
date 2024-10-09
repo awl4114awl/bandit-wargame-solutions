@@ -47,7 +47,7 @@ Once you find a password for a level, use SSH to log into that level and continu
 4. **Save the Password**:
    It is important to save the password, as you will need it to access **Bandit Level 1**. It's a good idea to create a local text file for your notes and passwords.
 
-## Password for Level 1
-```
-boJ9jbbUNNfktd78OOpsqOltutMc3MY1
-```
+5. **Password for Level 1**
+   ```
+   boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+   ```
