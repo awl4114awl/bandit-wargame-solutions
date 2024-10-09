@@ -51,7 +51,3 @@ Once you find a password for a level, use SSH to log into that level and continu
 ```
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 ```
-
-## Notes
-- This level introduces basic navigation commands in Linux, such as `ls` and `cat`, which will be used throughout the game.
-- Remember to keep a record of all passwords and detailed notes as you progress through the levels.
