@@ -43,8 +43,6 @@ The password for the next level is stored in a file called `spaces in this filen
      ```
 
 4. **Password for Level 4**:
-   The file contains the password for **Level 4**: 
-   
    ```
    MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
    ```
