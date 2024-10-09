@@ -9,7 +9,7 @@ The password for the next level can be retrieved by submitting the password of t
    Open a terminal and connect to the Bandit server using the following SSH command:
    
    ```
-   ssh bandit14@bandit.labs.overthewire.org -p 2220
+   ssh bandit15@bandit.labs.overthewire.org -p 2220
    ```
    ```
    pasasword: MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
@@ -23,7 +23,7 @@ The password for the next level can be retrieved by submitting the password of t
    echo "MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS" | nc localhost 30000
    ```
 
-3. **Password for Level 15**:
+3. **Password for Level 16**:
    ```
    8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
    ```
