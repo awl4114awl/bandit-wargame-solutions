@@ -43,7 +43,6 @@ The password for the next level is stored somewhere on the server and has all of
    ```
 
 4. **Password for Level 7**:
-   The file contains the password for **Level 7**:
    
    ```
    morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
