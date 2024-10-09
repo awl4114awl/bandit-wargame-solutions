@@ -14,7 +14,7 @@ The goal of **Level 1** is to find the password for **Level 2** stored in a file
     ```
     ssh bandit2@bandit.labs.overthewire.org -p 2220
     ```
-    - **Password**: The password obtained from **Level 0** (`boJ9jbbUNNfktd78OOpsqOltutMc3MY1`)
+    - **Password**: The password obtained from **Level 1** (`boJ9jbbUNNfktd78OOpsqOltutMc3MY1`)
 
 2. **Locate the File `-`**:
     The password is stored in a file named `-`. Since `-` can be mistaken for a command option, you need to specify the file’s path explicitly when using commands like `cat`.
