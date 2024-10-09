@@ -12,7 +12,7 @@ The goal of **Level 1** is to find the password for **Level 2** stored in a file
 1. **SSH into the Bandit Server** (using the password obtained from Level 0):
 
     ```
-    ssh bandit1@bandit.labs.overthewire.org -p 2220
+    ssh bandit2@bandit.labs.overthewire.org -p 2220
     ```
     - **Password**: The password obtained from **Level 0** (`boJ9jbbUNNfktd78OOpsqOltutMc3MY1`)
 
