@@ -9,7 +9,7 @@ The password for the next level is stored in a file named `data.txt` next to the
    Open a terminal and connect to the Bandit server using the following SSH command:
    
    ```
-   ssh bandit7@bandit.labs.overthewire.org -p 2220
+   ssh bandit8@bandit.labs.overthewire.org -p 2220
    ```
    ```
    password: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
