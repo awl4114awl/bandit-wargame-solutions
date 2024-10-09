@@ -1,7 +1,9 @@
 # Bandit Level 2 → Level 3
 
 ## Level Goal
-The password for the next level is stored in a file called `spaces in this filename` located in the home directory. You need to retrieve the password from this file to proceed to Bandit Level 3.
+The password for the next level is stored in a file called `spaces in this filename` located in the home directory
+
+
 
 ## Commands You May Need
 - `ls`: List directory contents.
