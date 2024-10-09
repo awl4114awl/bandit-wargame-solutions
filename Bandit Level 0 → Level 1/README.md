@@ -22,10 +22,6 @@ Once you find a password for a level, use SSH to log into that level and continu
    ssh bandit1@bandit.labs.overthewire.org -p 2220
    ```
 
-   - **Username**: `bandit0`
-   - **Password**: `bandit0`
-   - **Port**: `2220`
-
 2. **List the Files in the Home Directory**:
    After logging in, use the `ls` command to list the files in the home directory:
    
@@ -36,18 +32,18 @@ Once you find a password for a level, use SSH to log into that level and continu
    You should see a file named `readme`.
 
 3. **Read the Password in the `readme` File**:
-   Use the `cat` command to display the contents of the `readme` file, which contains the password for **Level 1**:
+   Use the `cat` command to display the contents of the `readme` file, which contains the password for **Level 2**:
    
    ```bash
    cat readme
    ```
 
-   The output will be the password for **Level 1**.
+   The output will be the password for **Level 2**.
 
 4. **Save the Password**:
    It is important to save the password, as you will need it to access **Bandit Level 1**. It's a good idea to create a local text file for your notes and passwords.
 
-5. **Password for Level 1:**
+5. **Password for Level 2:**
    ```
    boJ9jbbUNNfktd78OOpsqOltutMc3MY1
    ```
