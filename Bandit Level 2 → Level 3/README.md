@@ -42,7 +42,7 @@ The password for the next level is stored in a file called `spaces in this filen
      cat spaces\ in\ this\ filename
      ```
 
-4. **Password for Level 4**:
+4. **Password for Level 3**:
    ```
    MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
    ```
