@@ -19,7 +19,7 @@ Once you find a password for a level, use SSH to log into that level and continu
    Open a terminal and connect to the Bandit server using SSH. Use the default `bandit0` credentials:
    
    ```bash
-   ssh bandit0@bandit.labs.overthewire.org -p 2220
+   ssh bandit1@bandit.labs.overthewire.org -p 2220
    ```
 
    - **Username**: `bandit0`
