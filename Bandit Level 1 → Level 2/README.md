@@ -27,8 +27,6 @@ The goal of **Level 1** is to find the password for **Level 2** stored in a file
     ```
 
 4. **Password for Level 2**:
-    The contents of the `-` file will be the password for **Level 2**:
-
     ```
     263JGJPfgU6LtdEvgfWU1XP5yac29mFx
     ```
