@@ -2,9 +2,12 @@
 
 ## Level Goal
 The password for the next level is stored in a file somewhere under the `inhere` directory and has all of the following properties:
-- It is human-readable.
-- It is 1033 bytes in size.
-- It is not executable.
+
+```
+human-readable
+1033 bytes in size
+not executable
+```
 
 ## Commands You May Need
 - `find`: Search for files with specific properties.
