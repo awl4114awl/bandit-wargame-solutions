@@ -16,7 +16,7 @@ The password for the next level is stored in a file somewhere under the `inhere`
    Open a terminal and connect to the Bandit server using the following SSH command:
    
    ```
-   ssh bandit5@bandit.labs.overthewire.org -p 2220
+   ssh bandit6@bandit.labs.overthewire.org -p 2220
    ```
    ```
    password: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
@@ -49,8 +49,6 @@ The password for the next level is stored in a file somewhere under the `inhere`
    ```
 
 5. **Password for Level 6**:
-   The file contains the password for **Level 6**:
-   
    ```
    HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
    ```
