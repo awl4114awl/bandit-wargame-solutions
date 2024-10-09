@@ -3,7 +3,7 @@
 ---
 
 ### Objective:
-The goal of **Level 1** is to find the password for **Level 2** stored in a file named `-` (which is tricky because the filename looks like a command option).
+The password for the next level is stored in a file called - located in the home directory
 
 ---
 
