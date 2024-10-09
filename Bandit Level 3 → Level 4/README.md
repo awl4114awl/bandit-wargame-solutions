@@ -1,7 +1,7 @@
 # Bandit Level 3 → Level 4
 
 ## Level Goal
-The password for the next level is stored in a hidden file within the `inhere` directory. You need to locate and retrieve the password from this hidden file to proceed to Bandit Level 4.
+The password for the next level is stored in a hidden file in the `inhere` directory.
 
 ## Commands You May Need
 - `ls`: List directory contents.
